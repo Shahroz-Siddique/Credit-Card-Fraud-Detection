@@ -1,0 +1,15 @@
+artifact_uri: file:///home/foxtech/SHAHROZ_PROJ/Credit_Card_fraud_detection/mlruns/0/ac54ba3de05048d4bd7bb048c114c470/artifacts
+end_time: 1748422627454
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ac54ba3de05048d4bd7bb048c114c470
+run_name: Ensemble_SMOTE
+run_uuid: ac54ba3de05048d4bd7bb048c114c470
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1748422624224
+status: 3
+tags: []
+user_id: foxtech

@@ -1,0 +1,16 @@
+# config/config.yaml
+
+data:
+  raw_path: data/raw/creditcard.csv
+  processed_path: data/processed/creditcard_cleaned.csv
+
+model:
+  output_dir: models/
+  ensemble_model_name: ensemble_smote.pkl
+  logistic_model_name: logistic_regression.pkl
+  rf_model_name: random_forest.pkl
+  xgb_model_name: xgboost.pkl
+
+mlflow:
+  tracking_uri: http://localhost:5000
+  experiment_name: credit-card-fraud-detection
